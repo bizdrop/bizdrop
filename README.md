@@ -1,9 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h1 align="center">Hi 👋, I'm Bizdrop</h1>
 <h3 align="center">Giga C#</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bizdrop" alt="bizdrop" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=bizdrop-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to reach me **Discord: bizdrop**
 
