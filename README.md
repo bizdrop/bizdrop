@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bizdrop</h1>
-<h3 align="center">Giga C#</h3>
+<h3 align="center">C# & C++</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bizdrop&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
